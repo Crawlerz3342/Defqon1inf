@@ -1,0 +1,29 @@
+
+
+h1{
+
+   font-family: Verdana;
+   font-size: 30px;
+   font-style: normal;
+   font-weight: 500px;
+   font-variant: small-caps;
+   color: black;
+   text-align: justify;
+     
+   text-decoration: underline;  
+   background: red
+}
+
+h2{
+     text-decoration: underline;
+     background: red
+     
+}
+
+
+h3{
+	letter-spacing: 1px;
+	word-spacing: 20px;
+	text-transform: uppercase;
+
+
